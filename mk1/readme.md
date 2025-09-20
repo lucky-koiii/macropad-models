@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [JuanNaimo](https://github.com/JuanNaimo)
+* Keyboard Maintainer: [Luckykoiii](https://github.com/lucky-koiii)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
